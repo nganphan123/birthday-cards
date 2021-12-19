@@ -1,11 +1,10 @@
 
-.simple-slider .swiper-slide {
-  display: flex;
-  height: 500px;
+.simple-slider{
+  padding-top: 100px;
 }
 
-#secret {
-  display: none;
+.simple-slider .swiper-slide {
+  display: flex;
   height: 500px;
 }
 
